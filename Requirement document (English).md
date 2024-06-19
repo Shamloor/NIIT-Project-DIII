@@ -42,15 +42,11 @@
 
 #### Requirement
 
-- Input: Linux scripts, analysis result images, MySQL data
-- Design the webpage framework (including page beautification)
-- Complete basic functions such as registration, login, and password recovery (directly copied from GITHUB), and note that these functions need to use the MySQL database on the Linux virtual machine.
-- Integrate all the code completed in Task3.
-- Provide a one-click button on the webpage and give feedback upon successful operation:
-  - One-click data retrieval, which should eventually be a one-click run of a local Python file (test with "Hello World" first, then add parameter `Size`, which the user enters on the webpage to determine the amount of data to retrieve, similar to C language args).
-  - One-click execution of multiple Linux Shell commands, calling scripts (like start-all.sh, which executes multiple commands).
-- Insert ChatGPT plugin on the webpage.
-- Output: Webpage integration
++ Requirement
++ Input: Linux script analysis result picture MySQL data .
++ Responsible for the web development of the entire system .
++ Basic functions, such as registering, logging in, and retrieving passwords, are complete.
++ Front end vue page design and beautification.
 
 ### Task5 - PPT And SRS - Dream Zhao
 
